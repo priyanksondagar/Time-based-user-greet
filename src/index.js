@@ -3,7 +3,7 @@ import ReactDom from 'react-dom';
 import './index.css';
 
 
-const curDate = new Date();
+const curDate = new Date(2020,3,4,22);
 const curTime = curDate.getHours();
 let greet = '';
 
