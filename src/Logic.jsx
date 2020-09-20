@@ -2,7 +2,7 @@ import React from 'react';
 //import App from './App';
 
     
-    const curDate = new Date(2020,3,4,12);
+    const curDate = new Date();
     const curTime = curDate.getHours();
     let greet = '';
 
